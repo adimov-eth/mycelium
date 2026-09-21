@@ -4,7 +4,7 @@ TypeScript hypergraph memory. Persistence across sessions.
 
 A symbol means nothing alone. Meaning is the n-ary edge (roles, pins). A path is how understanding unfolded, not only the conclusion. A context is a worldview (OR-set of activations). Objects are content-addressed.
 
-Inspired by Octra’s hypergraph. Not completed. Not a product. No Octra code.
+Not completed. Not a product.
 
 ## What is here
 
