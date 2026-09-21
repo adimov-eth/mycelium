@@ -1,0 +1,16 @@
+{
+  "name": "mycelium",
+  "version": "0.1.0",
+  "description": "Hypergraph memory. Meaning is the edge. Not completed.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0",
+    "vitest": "^2.0.0"
+  }
+}
